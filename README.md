@@ -51,29 +51,54 @@ sns.histplot(x="Row ID", data=df)
 #Output:
 Dataset 
 
-![]("https://github.com/Hariharan5354/Ex03-Univariate-Analysis/blob/main/21.png")
+![](https://github.com/Hariharan5354/Ex03-Univariate-Analysis/blob/main/01.jpg)
+
 
 Dataset info
 
-![]("https://github.com/Hariharan5354/Ex03-Univariate-Analysis/blob/main/22.png")
+![](https://github.com/Hariharan5354/Ex03-Univariate-Analysis/blob/main/02.jpg)
+
 
 Dataset describe
 
-![]("https://github.com/Hariharan5354/Ex03-Univariate-Analysis/blob/main/21.png")
+![](https://github.com/Hariharan5354/Ex03-Univariate-Analysis/blob/main/03.jpg)
+
 
 Null value
 
+![](https://github.com/Hariharan5354/Ex03-Univariate-Analysis/blob/main/04.jpg)
+
+
 Data types
+
+![](https://github.com/Hariharan5354/Ex03-Univariate-Analysis/blob/main/05.jpg)
+
 
 Value count
 
+![](https://github.com/Hariharan5354/Ex03-Univariate-Analysis/blob/main/06.jpg)
+
+
 Boxplot
+
+![](https://github.com/Hariharan5354/Ex03-Univariate-Analysis/blob/main/07.jpg)
+
 
 Count plot
 
+![](https://github.com/Hariharan5354/Ex03-Univariate-Analysis/blob/main/08.jpg)
+
+
 Distribution plot
 
+![](https://github.com/Hariharan5354/Ex03-Univariate-Analysis/blob/main/09.jpg)
+
+
 Histogram plot
+
+![](https://github.com/Hariharan5354/Ex03-Univariate-Analysis/blob/main/10.jpg)
+
+
 
 # Result:
 Thus we have read the given data and performed the univariate analysis with different types of plots.
