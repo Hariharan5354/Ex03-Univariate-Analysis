@@ -59,6 +59,8 @@ Dataset info
 
 Dataset describe
 
+![]("https://github.com/Hariharan5354/Ex03-Univariate-Analysis/blob/main/21.png")
+
 Null value
 
 Data types
